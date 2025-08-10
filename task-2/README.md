@@ -33,4 +33,5 @@ python3 task2_post.py
 python3 task3_get.py
 python3 task4_get.py
 python3 task5_post.py
+python3 bonus_crud.py
 ```
